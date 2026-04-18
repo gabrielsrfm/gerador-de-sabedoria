@@ -1,8 +1,8 @@
-# 💬 Gerador de Sabedoria
+# Gerador de Sabedoria
 
 Aplicação web simples que consome a API pública [quotable.io](https://api.quotable.io) para exibir frases inspiradoras aleatórias com autor e categoria.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Busca frases reais de uma API pública a cada clique
 - Exibe autor e categoria da frase
@@ -10,13 +10,13 @@ Aplicação web simples que consome a API pública [quotable.io](https://api.quo
 - Alternância manual entre a API externa e o banco local
 - Interface responsiva e minimalista
 
-## 🖥️ Tecnologias
+## Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript (Fetch API)
 
-## 🚀 Como usar
+## Como usar
 
 1. Clone o repositório:
    ```bash
@@ -26,7 +26,7 @@ Aplicação web simples que consome a API pública [quotable.io](https://api.quo
 
 > Nenhuma instalação ou dependência necessária.
 
-## 📡 API utilizada
+## API utilizada
 
 [quotable.io](https://api.quotable.io) — API gratuita e open source de citações em inglês.
 
@@ -35,7 +35,7 @@ Endpoint utilizado:
 GET https://api.quotable.io/random
 ```
 
-## 📁 Estrutura
+## Estrutura
 
 ```
 gerador-de-sabedoria/
